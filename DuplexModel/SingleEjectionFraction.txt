@@ -1,0 +1,3 @@
+MuscleStiffness DelayEDV DelaySV DelayEF SyncEDV SyncSV SyncEF EjectionRatio
+
+0.2 10 0.880734 8.80734 10 0.909091 9.09091 0.28357
